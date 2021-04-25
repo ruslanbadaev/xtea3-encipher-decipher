@@ -39,6 +39,6 @@ void xtea3_encipher(unsigned int num_rounds, uint32_t *v, uint32_t const *k)
 
 int main(void)
 {
-    //xtea3_encipher(1, 23, 4);
+    //xtea3_encipher();
     return 0;
 }
